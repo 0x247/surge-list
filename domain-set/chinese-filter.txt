@@ -238,6 +238,12 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.imniel.com
+.kiolpia.icu
+.bdcmwcl.icu
+.urpkktc.icu
+.dsfh2.icu
+.qoubliy.top
 .vuirssd.icu
 .kjnsgqe.icu
 .rbift.icu
@@ -245,6 +251,8 @@
 .wmcbld.top
 .ifmccdn.icu
 .vrelai.com
+.woublie.top
+.ti4la.icu
 .graesol.com
 .ctlacnh.icu
 .xggcyef.icu
